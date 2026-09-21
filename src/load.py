@@ -5,7 +5,8 @@ def load(customers):
                   'age',
                   'country',
                   'account_type',
-                  'balance'
+                  'balance', 
+                  'age_group'
                   ]
     # we take the final data and create a new file in the path specified
     # we are also essentially taking the list of dictionaries and converting them to a CSV file
