@@ -11,6 +11,19 @@ def categorize_age(customers):
             
     return customers
 
+country_codes = {
+    'South Africa': 'ZA',
+    'Namibia': 'NA',
+    'Botswana': 'BW',
+    'Zimbabwe': 'ZW'
+}
+
+def standardize_countries(customers):
+    for customer in customers:
+        customer['country'] = country_codes[customer['country']]
+        
+    return customers
+
 
 
 def transform(customers):
@@ -28,7 +41,7 @@ def transform(customers):
         transformed_customers.append(customer)
     
     transformed_customers = categorize_age(transformed_customers)
-        
+    transformed_customers = standardize_countries(transformed_customers) 
     return transformed_customers
 
 

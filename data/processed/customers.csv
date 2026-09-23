@@ -1,501 +1,501 @@
 customer_id,age,country,account_type,balance,age_group
-10001,19,Botswana,Standard,53781,Young Adult
-10002,24,South Africa,Basic,69403,Young Adult
-10003,38,Zimbabwe,Premium,3417,Adult
-10004,66,Namibia,Premium,44421,Mature
-10005,45,Botswana,Basic,45050,Adult
-10006,35,Namibia,Premium,14952,Adult
-10007,34,Zimbabwe,Basic,64111,Adult
-10008,60,South Africa,Basic,66016,Mature
-10009,18,Zimbabwe,Premium,11753,Young Adult
-10010,51,South Africa,Premium,2206,Mature
-10011,63,Namibia,Premium,20369,Mature
-10012,37,Namibia,Premium,2144,Adult
-10013,69,Botswana,Premium,16727,Mature
-10014,44,South Africa,Basic,90531,Adult
-10015,30,Namibia,Standard,87757,Young Adult
-10016,47,Namibia,Premium,58236,Adult
-10017,48,Namibia,Basic,83264,Adult
-10018,53,Zimbabwe,Standard,25282,Mature
-10019,63,Zimbabwe,Standard,28369,Mature
-10020,18,Namibia,Standard,48152,Young Adult
-10021,50,Botswana,Premium,5010,Adult
-10022,27,Zimbabwe,Standard,63343,Young Adult
-10023,30,South Africa,Standard,29255,Young Adult
-10024,60,Botswana,Basic,35808,Mature
-10025,27,Namibia,Basic,84974,Young Adult
-10026,40,South Africa,Premium,76502,Adult
-10027,43,Zimbabwe,Basic,27485,Adult
-10028,33,Namibia,Basic,98727,Adult
-10029,53,Namibia,Premium,81778,Mature
-10030,62,Namibia,Standard,29831,Mature
-10031,23,Namibia,Standard,76692,Young Adult
-10032,69,Zimbabwe,Basic,61931,Mature
-10033,34,South Africa,Standard,44156,Adult
-10034,65,Botswana,Premium,88431,Mature
-10035,26,Namibia,Premium,54073,Young Adult
-10036,62,Namibia,Premium,67508,Mature
-10037,20,Zimbabwe,Standard,92404,Young Adult
-10038,25,South Africa,Standard,64588,Young Adult
-10039,59,Botswana,Basic,34585,Mature
-10040,34,Botswana,Premium,97310,Adult
-10041,35,South Africa,Standard,55079,Adult
-10042,62,Zimbabwe,Basic,37126,Mature
-10043,53,Namibia,Basic,14525,Mature
-10044,62,Namibia,Basic,18625,Mature
-10045,63,Botswana,Standard,72378,Mature
-10046,52,Botswana,Basic,65990,Mature
-10047,53,South Africa,Basic,7212,Mature
-10048,61,Namibia,Standard,20525,Mature
-10049,45,Namibia,Premium,99585,Adult
-10050,22,Botswana,Premium,33826,Young Adult
-10051,62,South Africa,Premium,69686,Mature
-10052,40,Namibia,Basic,17562,Adult
-10053,63,South Africa,Premium,13898,Mature
-10054,52,Zimbabwe,Premium,13805,Mature
-10055,69,Namibia,Premium,54567,Mature
-10056,54,South Africa,Premium,1773,Mature
-10057,32,Botswana,Premium,42695,Adult
-10058,20,Botswana,Premium,67802,Young Adult
-10059,56,Botswana,Premium,21046,Mature
-10060,35,Botswana,Basic,51350,Adult
-10061,43,Botswana,Basic,45448,Adult
-10062,31,Botswana,Standard,61544,Adult
-10063,26,Zimbabwe,Premium,84889,Young Adult
-10064,53,Namibia,Premium,97310,Mature
-10065,38,Botswana,Standard,87745,Adult
-10066,62,Botswana,Standard,59493,Mature
-10067,45,Zimbabwe,Premium,81472,Adult
-10068,66,Zimbabwe,Basic,6147,Mature
-10069,51,Namibia,Premium,51100,Mature
-10070,18,Botswana,Premium,78293,Young Adult
-10071,18,Namibia,Premium,36992,Young Adult
-10072,30,Botswana,Standard,30523,Young Adult
-10073,42,Zimbabwe,Standard,70351,Adult
-10074,24,Namibia,Basic,72286,Young Adult
-10075,27,Zimbabwe,Standard,84305,Young Adult
-10076,28,Namibia,Premium,18964,Young Adult
-10077,33,Botswana,Standard,81487,Adult
-10078,31,Botswana,Standard,46951,Adult
-10079,27,Zimbabwe,Standard,7515,Young Adult
-10080,18,Zimbabwe,Premium,16396,Young Adult
-10081,67,Zimbabwe,Basic,33333,Mature
-10082,46,Botswana,Premium,46162,Adult
-10083,33,Namibia,Basic,6318,Adult
-10084,35,South Africa,Standard,82764,Adult
-10085,46,Zimbabwe,Basic,49849,Adult
-10086,65,Zimbabwe,Basic,49665,Mature
-10087,34,Botswana,Standard,54585,Adult
-10088,61,Zimbabwe,Premium,73705,Mature
-10089,39,Zimbabwe,Premium,93403,Adult
-10090,45,South Africa,Premium,78369,Adult
-10091,70,Zimbabwe,Premium,9482,Mature
-10092,46,Namibia,Standard,54787,Adult
-10093,20,South Africa,Premium,31326,Young Adult
-10094,25,Botswana,Standard,90051,Young Adult
-10095,57,Zimbabwe,Standard,12424,Mature
-10096,68,South Africa,Standard,86405,Mature
-10097,59,South Africa,Standard,43293,Mature
-10098,64,Namibia,Standard,14449,Mature
-10099,69,Zimbabwe,Premium,41747,Mature
-10100,58,South Africa,Basic,74127,Mature
-10101,38,South Africa,Basic,42626,Adult
-10102,47,South Africa,Standard,57033,Adult
-10103,54,Zimbabwe,Basic,60694,Mature
-10104,45,Botswana,Premium,89782,Adult
-10105,51,South Africa,Standard,21432,Mature
-10106,65,South Africa,Standard,2260,Mature
-10107,56,South Africa,Premium,20953,Mature
-10108,66,Namibia,Basic,2109,Mature
-10109,55,Botswana,Standard,34667,Mature
-10110,49,Zimbabwe,Basic,74649,Adult
-10111,48,Zimbabwe,Premium,48665,Adult
-10112,22,Namibia,Basic,52487,Young Adult
-10113,23,Namibia,Basic,89180,Young Adult
-10114,57,Botswana,Standard,33659,Mature
-10115,23,South Africa,Basic,31115,Young Adult
-10116,41,Botswana,Premium,44472,Adult
-10117,46,Zimbabwe,Standard,7461,Adult
-10118,69,Namibia,Basic,21378,Mature
-10119,30,Botswana,Premium,11162,Young Adult
-10120,51,Zimbabwe,Basic,98630,Mature
-10121,32,Zimbabwe,Premium,87891,Adult
-10122,51,South Africa,Standard,70039,Mature
-10123,52,Namibia,Standard,85490,Mature
-10124,30,Namibia,Premium,5053,Young Adult
-10125,23,Botswana,Premium,5022,Young Adult
-10126,35,South Africa,Standard,4416,Adult
-10127,19,Zimbabwe,Standard,48908,Young Adult
-10128,30,Botswana,Basic,18874,Young Adult
-10129,50,Zimbabwe,Basic,33242,Adult
-10130,22,Botswana,Standard,57899,Young Adult
-10131,53,Botswana,Premium,25652,Mature
-10132,28,Namibia,Basic,51654,Young Adult
-10133,25,Botswana,Premium,94014,Young Adult
-10134,58,Namibia,Premium,42662,Mature
-10135,66,South Africa,Basic,37900,Mature
-10136,51,Zimbabwe,Basic,91946,Mature
-10137,49,Namibia,Standard,4884,Adult
-10138,46,Namibia,Premium,44225,Adult
-10139,45,Namibia,Basic,33280,Adult
-10140,59,Botswana,Premium,49293,Mature
-10141,19,Botswana,Premium,14033,Young Adult
-10142,19,Zimbabwe,Standard,99060,Young Adult
-10143,36,Namibia,Standard,19308,Adult
-10144,61,South Africa,Basic,88269,Mature
-10145,51,South Africa,Basic,53898,Mature
-10146,68,Zimbabwe,Premium,37154,Mature
-10147,60,South Africa,Basic,44938,Mature
-10148,54,Namibia,Premium,11675,Mature
-10149,55,Namibia,Standard,24843,Mature
-10150,40,Botswana,Standard,73568,Adult
-10151,27,Botswana,Premium,75524,Young Adult
-10152,67,South Africa,Standard,25146,Mature
-10153,45,Namibia,Premium,49474,Adult
-10154,44,Namibia,Basic,3868,Adult
-10155,23,Botswana,Basic,11607,Young Adult
-10156,30,South Africa,Standard,9370,Young Adult
-10157,64,Namibia,Standard,70144,Mature
-10158,69,Botswana,Standard,57905,Mature
-10159,59,Zimbabwe,Premium,1190,Mature
-10160,70,Namibia,Basic,99940,Mature
-10161,46,South Africa,Basic,43848,Adult
-10162,64,South Africa,Premium,89855,Mature
-10163,58,Botswana,Standard,42639,Mature
-10164,49,Zimbabwe,Basic,57044,Adult
-10165,28,Namibia,Basic,69141,Young Adult
-10166,66,Botswana,Basic,98430,Mature
-10167,45,Botswana,Standard,55008,Adult
-10168,35,South Africa,Premium,17621,Adult
-10169,68,South Africa,Basic,47514,Mature
-10170,47,Namibia,Basic,91615,Adult
-10171,70,Namibia,Basic,49192,Mature
-10172,54,Zimbabwe,Standard,94781,Mature
-10173,67,South Africa,Standard,98296,Mature
-10174,69,Namibia,Premium,96156,Mature
-10175,68,Namibia,Premium,60858,Mature
-10176,65,Zimbabwe,Standard,42635,Mature
-10177,29,Namibia,Basic,43782,Young Adult
-10178,53,Zimbabwe,Basic,92016,Mature
-10179,69,Namibia,Standard,62899,Mature
-10180,32,Zimbabwe,Basic,93705,Adult
-10181,54,Zimbabwe,Premium,7528,Mature
-10182,59,Namibia,Standard,96414,Mature
-10183,58,Zimbabwe,Basic,58559,Mature
-10184,43,Botswana,Standard,86787,Adult
-10185,55,Botswana,Standard,56439,Mature
-10186,52,Namibia,Premium,18779,Mature
-10187,45,Botswana,Basic,69479,Adult
-10188,19,Zimbabwe,Basic,18331,Young Adult
-10189,25,Namibia,Basic,82608,Young Adult
-10190,49,Zimbabwe,Basic,38477,Adult
-10191,35,Namibia,Premium,76279,Adult
-10192,59,Botswana,Basic,48184,Mature
-10193,58,Botswana,Premium,98194,Mature
-10194,57,Botswana,Basic,45638,Mature
-10195,41,Namibia,Standard,14369,Adult
-10196,55,Namibia,Standard,48728,Mature
-10197,36,Namibia,Basic,18469,Adult
-10198,25,Zimbabwe,Premium,1309,Young Adult
-10199,22,South Africa,Basic,45747,Young Adult
-10200,23,Zimbabwe,Basic,13608,Young Adult
-10201,28,Botswana,Basic,21834,Young Adult
-10202,26,Namibia,Premium,98127,Young Adult
-10203,67,Namibia,Premium,62342,Mature
-10204,20,Zimbabwe,Basic,14824,Young Adult
-10205,39,Botswana,Standard,86628,Adult
-10206,51,Zimbabwe,Basic,39349,Mature
-10207,19,Zimbabwe,Premium,51274,Young Adult
-10208,70,Zimbabwe,Basic,55300,Mature
-10209,68,Zimbabwe,Premium,41483,Mature
-10210,65,South Africa,Basic,79196,Mature
-10211,28,Botswana,Premium,4423,Young Adult
-10212,52,Botswana,Standard,42959,Mature
-10213,69,Namibia,Basic,86956,Mature
-10214,44,Zimbabwe,Premium,93089,Adult
-10215,56,Namibia,Standard,4908,Mature
-10216,55,Namibia,Standard,20602,Mature
-10217,25,South Africa,Standard,28236,Young Adult
-10218,39,South Africa,Standard,37190,Adult
-10219,35,Zimbabwe,Premium,3361,Adult
-10220,20,Zimbabwe,Basic,83657,Young Adult
-10221,29,Namibia,Basic,26722,Young Adult
-10222,25,Namibia,Standard,15033,Young Adult
-10223,25,South Africa,Premium,88667,Young Adult
-10224,38,Zimbabwe,Standard,53905,Adult
-10225,39,Zimbabwe,Premium,44310,Adult
-10226,44,Botswana,Standard,76247,Adult
-10227,43,Namibia,Standard,71131,Adult
-10228,25,Namibia,Standard,51330,Young Adult
-10229,36,Zimbabwe,Standard,70265,Adult
-10230,53,Zimbabwe,Standard,71123,Mature
-10231,32,Botswana,Basic,2804,Adult
-10232,29,South Africa,Premium,39062,Young Adult
-10233,61,Botswana,Standard,78421,Mature
-10234,18,Zimbabwe,Premium,93708,Young Adult
-10235,53,Namibia,Premium,92069,Mature
-10236,56,South Africa,Standard,10960,Mature
-10237,45,Botswana,Basic,74488,Adult
-10238,47,Namibia,Premium,65674,Adult
-10239,45,South Africa,Standard,73117,Adult
-10240,57,South Africa,Basic,84146,Mature
-10241,38,Zimbabwe,Premium,84161,Adult
-10242,67,Botswana,Premium,7530,Mature
-10243,26,Botswana,Basic,79105,Young Adult
-10244,63,Namibia,Premium,86602,Mature
-10245,54,South Africa,Premium,45095,Mature
-10246,22,South Africa,Basic,37772,Young Adult
-10247,28,Namibia,Standard,65148,Young Adult
-10248,49,Namibia,Basic,23985,Adult
-10249,45,South Africa,Standard,58055,Adult
-10250,50,South Africa,Basic,63214,Adult
-10251,48,Namibia,Standard,24077,Adult
-10252,67,Botswana,Premium,54030,Mature
-10253,30,South Africa,Basic,67592,Young Adult
-10254,18,South Africa,Premium,5977,Young Adult
-10255,30,Zimbabwe,Basic,87397,Young Adult
-10256,55,South Africa,Premium,38447,Mature
-10257,64,Namibia,Premium,94664,Mature
-10258,53,Botswana,Premium,39887,Mature
-10259,32,Botswana,Standard,56692,Adult
-10260,28,Zimbabwe,Premium,17198,Young Adult
-10261,64,Namibia,Premium,91670,Mature
-10262,37,Namibia,Basic,5095,Adult
-10263,28,South Africa,Standard,43554,Young Adult
-10264,34,Namibia,Standard,45774,Adult
-10265,57,Botswana,Basic,2741,Mature
-10266,70,Namibia,Standard,65022,Mature
-10267,37,Namibia,Standard,12604,Adult
-10268,26,South Africa,Basic,96068,Young Adult
-10269,42,Zimbabwe,Standard,26984,Adult
-10270,22,South Africa,Basic,29789,Young Adult
-10271,61,Botswana,Basic,48885,Mature
-10272,70,Zimbabwe,Standard,40218,Mature
-10273,63,Namibia,Basic,53487,Mature
-10274,60,Botswana,Premium,83839,Mature
-10275,46,Zimbabwe,Standard,96625,Adult
-10276,66,Zimbabwe,Premium,3627,Mature
-10277,58,South Africa,Standard,50193,Mature
-10278,40,Zimbabwe,Basic,12306,Adult
-10279,52,Namibia,Premium,52378,Mature
-10280,66,Zimbabwe,Standard,20038,Mature
-10281,29,Botswana,Basic,50177,Young Adult
-10282,40,Namibia,Standard,19021,Adult
-10283,42,Namibia,Basic,35861,Adult
-10284,41,Namibia,Basic,1124,Adult
-10285,21,Zimbabwe,Standard,48728,Young Adult
-10286,33,South Africa,Standard,39501,Adult
-10287,62,South Africa,Basic,70500,Mature
-10288,49,Namibia,Basic,6525,Adult
-10289,41,Botswana,Basic,66283,Adult
-10290,32,South Africa,Standard,81241,Adult
-10291,69,Botswana,Standard,89355,Mature
-10292,35,Botswana,Premium,34677,Adult
-10293,62,South Africa,Standard,77061,Mature
-10294,48,Zimbabwe,Premium,42330,Adult
-10295,52,South Africa,Basic,12837,Mature
-10296,57,Namibia,Basic,98544,Mature
-10297,64,Botswana,Standard,83181,Mature
-10298,45,Zimbabwe,Premium,97398,Adult
-10299,25,Namibia,Premium,26419,Young Adult
-10300,53,Botswana,Standard,10705,Mature
-10301,20,Namibia,Premium,86828,Young Adult
-10302,69,Zimbabwe,Premium,49597,Mature
-10303,24,South Africa,Premium,89819,Young Adult
-10304,49,Namibia,Standard,73043,Adult
-10305,44,South Africa,Basic,29599,Adult
-10306,28,Botswana,Standard,17505,Young Adult
-10307,51,Namibia,Standard,64289,Mature
-10308,32,South Africa,Basic,70831,Adult
-10309,41,Botswana,Standard,29667,Adult
-10310,34,Zimbabwe,Basic,20527,Adult
-10311,53,Namibia,Basic,76663,Mature
-10312,51,Namibia,Premium,35806,Mature
-10313,42,Zimbabwe,Premium,70372,Adult
-10314,21,Zimbabwe,Basic,38575,Young Adult
-10315,37,Namibia,Standard,41562,Adult
-10316,20,Botswana,Basic,20024,Young Adult
-10317,40,South Africa,Premium,32967,Adult
-10318,58,South Africa,Standard,68040,Mature
-10319,33,Namibia,Basic,51168,Adult
-10320,65,South Africa,Standard,75645,Mature
-10321,38,Botswana,Standard,61669,Adult
-10322,47,South Africa,Standard,43050,Adult
-10323,30,Botswana,Premium,13318,Young Adult
-10324,27,Zimbabwe,Standard,78158,Young Adult
-10325,64,Zimbabwe,Standard,16888,Mature
-10326,42,South Africa,Basic,66213,Adult
-10327,23,Namibia,Premium,22920,Young Adult
-10328,59,Namibia,Premium,55840,Mature
-10329,57,Botswana,Standard,39131,Mature
-10330,55,South Africa,Basic,87915,Mature
-10331,19,Zimbabwe,Basic,61494,Young Adult
-10332,33,Zimbabwe,Premium,26933,Adult
-10333,62,Botswana,Basic,11652,Mature
-10334,30,Namibia,Premium,68061,Young Adult
-10335,18,South Africa,Basic,9570,Young Adult
-10336,19,Botswana,Basic,2045,Young Adult
-10337,47,Namibia,Basic,3596,Adult
-10338,67,Namibia,Standard,65739,Mature
-10339,31,South Africa,Basic,6168,Adult
-10340,63,Zimbabwe,Premium,54106,Mature
-10341,57,Botswana,Basic,11515,Mature
-10342,52,Zimbabwe,Standard,14674,Mature
-10343,54,Botswana,Standard,91174,Mature
-10344,52,Botswana,Premium,84645,Mature
-10345,27,Zimbabwe,Basic,18318,Young Adult
-10346,40,South Africa,Basic,26223,Adult
-10347,27,Zimbabwe,Premium,23577,Young Adult
-10348,33,South Africa,Standard,55741,Adult
-10349,18,Namibia,Basic,78608,Young Adult
-10350,22,Zimbabwe,Premium,18317,Young Adult
-10351,51,Namibia,Standard,16438,Mature
-10352,45,South Africa,Premium,82109,Adult
-10353,61,Botswana,Basic,65519,Mature
-10354,69,Botswana,Premium,75073,Mature
-10355,29,Namibia,Standard,78516,Young Adult
-10356,25,Botswana,Basic,1133,Young Adult
-10357,58,South Africa,Basic,85283,Mature
-10358,34,Botswana,Premium,44684,Adult
-10359,67,Zimbabwe,Basic,90825,Mature
-10360,35,Zimbabwe,Standard,40110,Adult
-10361,19,South Africa,Standard,2061,Young Adult
-10362,70,Namibia,Standard,59625,Mature
-10363,24,Namibia,Premium,70978,Young Adult
-10364,32,Namibia,Standard,26166,Adult
-10365,52,South Africa,Basic,76675,Mature
-10366,46,South Africa,Premium,50173,Adult
-10367,47,Zimbabwe,Basic,17704,Adult
-10368,51,South Africa,Premium,40463,Mature
-10369,46,Botswana,Standard,58045,Adult
-10370,38,Namibia,Premium,18088,Adult
-10371,41,South Africa,Premium,20885,Adult
-10372,47,South Africa,Premium,69075,Adult
-10373,37,Namibia,Basic,8446,Adult
-10374,50,Botswana,Basic,13760,Adult
-10375,39,Zimbabwe,Standard,52345,Adult
-10376,37,Zimbabwe,Standard,79746,Adult
-10377,52,Botswana,Standard,6517,Mature
-10378,52,Zimbabwe,Premium,65635,Mature
-10379,61,Namibia,Standard,92427,Mature
-10380,41,Namibia,Standard,91240,Adult
-10381,21,South Africa,Basic,42905,Young Adult
-10382,28,Namibia,Premium,47840,Young Adult
-10383,52,Botswana,Standard,71402,Mature
-10384,63,Botswana,Premium,83837,Mature
-10385,52,South Africa,Standard,41293,Mature
-10386,27,Botswana,Standard,21933,Young Adult
-10387,69,Zimbabwe,Basic,64411,Mature
-10388,44,Botswana,Premium,1573,Adult
-10389,36,South Africa,Standard,47251,Adult
-10390,57,Botswana,Premium,53626,Mature
-10391,33,South Africa,Standard,97343,Adult
-10392,55,Zimbabwe,Premium,55881,Mature
-10393,26,South Africa,Standard,48293,Young Adult
-10394,41,South Africa,Basic,95601,Adult
-10395,53,Zimbabwe,Premium,3952,Mature
-10396,51,Botswana,Premium,9667,Mature
-10397,29,Zimbabwe,Basic,56410,Young Adult
-10398,28,Namibia,Premium,5226,Young Adult
-10399,29,Zimbabwe,Standard,46115,Young Adult
-10400,31,South Africa,Standard,57929,Adult
-10401,58,Zimbabwe,Premium,3716,Mature
-10402,25,Botswana,Basic,28998,Young Adult
-10403,23,Botswana,Basic,56610,Young Adult
-10404,57,Botswana,Premium,2144,Mature
-10405,52,Zimbabwe,Standard,8793,Mature
-10406,59,Botswana,Premium,78234,Mature
-10407,20,South Africa,Standard,5902,Young Adult
-10408,50,Namibia,Premium,32669,Adult
-10409,28,Zimbabwe,Basic,88069,Young Adult
-10410,24,Namibia,Basic,69084,Young Adult
-10411,24,Botswana,Basic,17292,Young Adult
-10412,48,South Africa,Standard,54501,Adult
-10413,56,Namibia,Premium,6374,Mature
-10414,41,Botswana,Basic,51503,Adult
-10415,62,Zimbabwe,Basic,90440,Mature
-10416,19,Zimbabwe,Standard,16758,Young Adult
-10417,18,Zimbabwe,Premium,49810,Young Adult
-10418,26,Zimbabwe,Premium,94358,Young Adult
-10419,61,Botswana,Basic,54185,Mature
-10420,37,Zimbabwe,Standard,23437,Adult
-10421,48,South Africa,Standard,91432,Adult
-10422,33,South Africa,Basic,22411,Adult
-10423,56,Botswana,Premium,16533,Mature
-10424,42,South Africa,Premium,28840,Adult
-10425,58,Zimbabwe,Standard,79193,Mature
-10426,63,Botswana,Basic,46263,Mature
-10427,40,Botswana,Premium,22444,Adult
-10428,20,South Africa,Basic,30998,Young Adult
-10429,28,Zimbabwe,Premium,26119,Young Adult
-10430,52,Zimbabwe,Standard,13876,Mature
-10431,68,South Africa,Basic,71006,Mature
-10432,24,Zimbabwe,Basic,52448,Young Adult
-10433,49,South Africa,Premium,17771,Adult
-10434,34,Namibia,Basic,52004,Adult
-10435,19,Namibia,Basic,55344,Young Adult
-10436,42,Botswana,Premium,56522,Adult
-10437,44,Zimbabwe,Basic,51008,Adult
-10438,21,Zimbabwe,Basic,31913,Young Adult
-10439,60,Botswana,Standard,58420,Mature
-10440,34,Namibia,Standard,29802,Adult
-10441,26,Namibia,Standard,40892,Young Adult
-10442,53,Namibia,Standard,70725,Mature
-10443,47,South Africa,Basic,27948,Adult
-10444,31,Zimbabwe,Standard,69275,Adult
-10445,29,Botswana,Premium,12223,Young Adult
-10446,46,Zimbabwe,Standard,76446,Adult
-10447,63,Zimbabwe,Standard,71503,Mature
-10448,69,South Africa,Basic,12433,Mature
-10449,62,Zimbabwe,Basic,75487,Mature
-10450,28,Zimbabwe,Basic,99617,Young Adult
-10451,38,South Africa,Standard,28262,Adult
-10452,62,Zimbabwe,Premium,92622,Mature
-10453,59,Zimbabwe,Standard,35886,Mature
-10454,56,Zimbabwe,Premium,73749,Mature
-10455,46,Namibia,Standard,67354,Adult
-10456,49,Zimbabwe,Premium,11669,Adult
-10457,60,South Africa,Premium,59851,Mature
-10458,54,Namibia,Standard,67793,Mature
-10459,33,Namibia,Standard,78329,Adult
-10460,32,Botswana,Basic,12982,Adult
-10461,61,Botswana,Premium,15137,Mature
-10462,22,Botswana,Premium,51795,Young Adult
-10463,37,Namibia,Premium,35963,Adult
-10464,44,Botswana,Standard,78664,Adult
-10465,59,Namibia,Premium,30778,Mature
-10466,48,Botswana,Premium,47633,Adult
-10467,21,Zimbabwe,Standard,90951,Young Adult
-10468,44,South Africa,Standard,36331,Adult
-10469,65,Botswana,Basic,34371,Mature
-10470,57,Namibia,Basic,71269,Mature
-10471,24,Botswana,Premium,11718,Young Adult
-10472,56,Namibia,Standard,94378,Mature
-10473,29,Namibia,Standard,57120,Young Adult
-10474,66,Zimbabwe,Standard,59425,Mature
-10475,25,Botswana,Basic,53033,Young Adult
-10476,31,South Africa,Premium,12194,Adult
-10477,20,South Africa,Standard,4036,Young Adult
-10478,55,South Africa,Standard,84874,Mature
-10479,21,South Africa,Standard,19923,Young Adult
-10480,46,Zimbabwe,Premium,35285,Adult
-10481,70,Zimbabwe,Standard,82443,Mature
-10482,57,Namibia,Standard,55706,Mature
-10483,38,South Africa,Premium,18505,Adult
-10484,33,Zimbabwe,Standard,35225,Adult
-10485,57,Botswana,Premium,29939,Mature
-10486,31,Namibia,Basic,71723,Adult
-10487,52,South Africa,Premium,88239,Mature
-10488,45,South Africa,Premium,71218,Adult
-10489,66,Namibia,Basic,26309,Mature
-10490,52,Botswana,Basic,55857,Mature
-10491,53,South Africa,Premium,23960,Mature
-10492,34,South Africa,Basic,51054,Adult
-10493,64,South Africa,Standard,82220,Mature
-10494,60,Namibia,Premium,55695,Mature
-10495,24,Zimbabwe,Standard,88975,Young Adult
-10496,58,Botswana,Standard,16408,Mature
-10497,63,Zimbabwe,Basic,93255,Mature
-10498,60,South Africa,Premium,81460,Mature
-10499,29,South Africa,Premium,40971,Young Adult
-10500,61,Namibia,Standard,7049,Mature
+10001,19,BW,Standard,53781,Young Adult
+10002,24,ZA,Basic,69403,Young Adult
+10003,38,ZW,Premium,3417,Adult
+10004,66,NA,Premium,44421,Mature
+10005,45,BW,Basic,45050,Adult
+10006,35,NA,Premium,14952,Adult
+10007,34,ZW,Basic,64111,Adult
+10008,60,ZA,Basic,66016,Mature
+10009,18,ZW,Premium,11753,Young Adult
+10010,51,ZA,Premium,2206,Mature
+10011,63,NA,Premium,20369,Mature
+10012,37,NA,Premium,2144,Adult
+10013,69,BW,Premium,16727,Mature
+10014,44,ZA,Basic,90531,Adult
+10015,30,NA,Standard,87757,Young Adult
+10016,47,NA,Premium,58236,Adult
+10017,48,NA,Basic,83264,Adult
+10018,53,ZW,Standard,25282,Mature
+10019,63,ZW,Standard,28369,Mature
+10020,18,NA,Standard,48152,Young Adult
+10021,50,BW,Premium,5010,Adult
+10022,27,ZW,Standard,63343,Young Adult
+10023,30,ZA,Standard,29255,Young Adult
+10024,60,BW,Basic,35808,Mature
+10025,27,NA,Basic,84974,Young Adult
+10026,40,ZA,Premium,76502,Adult
+10027,43,ZW,Basic,27485,Adult
+10028,33,NA,Basic,98727,Adult
+10029,53,NA,Premium,81778,Mature
+10030,62,NA,Standard,29831,Mature
+10031,23,NA,Standard,76692,Young Adult
+10032,69,ZW,Basic,61931,Mature
+10033,34,ZA,Standard,44156,Adult
+10034,65,BW,Premium,88431,Mature
+10035,26,NA,Premium,54073,Young Adult
+10036,62,NA,Premium,67508,Mature
+10037,20,ZW,Standard,92404,Young Adult
+10038,25,ZA,Standard,64588,Young Adult
+10039,59,BW,Basic,34585,Mature
+10040,34,BW,Premium,97310,Adult
+10041,35,ZA,Standard,55079,Adult
+10042,62,ZW,Basic,37126,Mature
+10043,53,NA,Basic,14525,Mature
+10044,62,NA,Basic,18625,Mature
+10045,63,BW,Standard,72378,Mature
+10046,52,BW,Basic,65990,Mature
+10047,53,ZA,Basic,7212,Mature
+10048,61,NA,Standard,20525,Mature
+10049,45,NA,Premium,99585,Adult
+10050,22,BW,Premium,33826,Young Adult
+10051,62,ZA,Premium,69686,Mature
+10052,40,NA,Basic,17562,Adult
+10053,63,ZA,Premium,13898,Mature
+10054,52,ZW,Premium,13805,Mature
+10055,69,NA,Premium,54567,Mature
+10056,54,ZA,Premium,1773,Mature
+10057,32,BW,Premium,42695,Adult
+10058,20,BW,Premium,67802,Young Adult
+10059,56,BW,Premium,21046,Mature
+10060,35,BW,Basic,51350,Adult
+10061,43,BW,Basic,45448,Adult
+10062,31,BW,Standard,61544,Adult
+10063,26,ZW,Premium,84889,Young Adult
+10064,53,NA,Premium,97310,Mature
+10065,38,BW,Standard,87745,Adult
+10066,62,BW,Standard,59493,Mature
+10067,45,ZW,Premium,81472,Adult
+10068,66,ZW,Basic,6147,Mature
+10069,51,NA,Premium,51100,Mature
+10070,18,BW,Premium,78293,Young Adult
+10071,18,NA,Premium,36992,Young Adult
+10072,30,BW,Standard,30523,Young Adult
+10073,42,ZW,Standard,70351,Adult
+10074,24,NA,Basic,72286,Young Adult
+10075,27,ZW,Standard,84305,Young Adult
+10076,28,NA,Premium,18964,Young Adult
+10077,33,BW,Standard,81487,Adult
+10078,31,BW,Standard,46951,Adult
+10079,27,ZW,Standard,7515,Young Adult
+10080,18,ZW,Premium,16396,Young Adult
+10081,67,ZW,Basic,33333,Mature
+10082,46,BW,Premium,46162,Adult
+10083,33,NA,Basic,6318,Adult
+10084,35,ZA,Standard,82764,Adult
+10085,46,ZW,Basic,49849,Adult
+10086,65,ZW,Basic,49665,Mature
+10087,34,BW,Standard,54585,Adult
+10088,61,ZW,Premium,73705,Mature
+10089,39,ZW,Premium,93403,Adult
+10090,45,ZA,Premium,78369,Adult
+10091,70,ZW,Premium,9482,Mature
+10092,46,NA,Standard,54787,Adult
+10093,20,ZA,Premium,31326,Young Adult
+10094,25,BW,Standard,90051,Young Adult
+10095,57,ZW,Standard,12424,Mature
+10096,68,ZA,Standard,86405,Mature
+10097,59,ZA,Standard,43293,Mature
+10098,64,NA,Standard,14449,Mature
+10099,69,ZW,Premium,41747,Mature
+10100,58,ZA,Basic,74127,Mature
+10101,38,ZA,Basic,42626,Adult
+10102,47,ZA,Standard,57033,Adult
+10103,54,ZW,Basic,60694,Mature
+10104,45,BW,Premium,89782,Adult
+10105,51,ZA,Standard,21432,Mature
+10106,65,ZA,Standard,2260,Mature
+10107,56,ZA,Premium,20953,Mature
+10108,66,NA,Basic,2109,Mature
+10109,55,BW,Standard,34667,Mature
+10110,49,ZW,Basic,74649,Adult
+10111,48,ZW,Premium,48665,Adult
+10112,22,NA,Basic,52487,Young Adult
+10113,23,NA,Basic,89180,Young Adult
+10114,57,BW,Standard,33659,Mature
+10115,23,ZA,Basic,31115,Young Adult
+10116,41,BW,Premium,44472,Adult
+10117,46,ZW,Standard,7461,Adult
+10118,69,NA,Basic,21378,Mature
+10119,30,BW,Premium,11162,Young Adult
+10120,51,ZW,Basic,98630,Mature
+10121,32,ZW,Premium,87891,Adult
+10122,51,ZA,Standard,70039,Mature
+10123,52,NA,Standard,85490,Mature
+10124,30,NA,Premium,5053,Young Adult
+10125,23,BW,Premium,5022,Young Adult
+10126,35,ZA,Standard,4416,Adult
+10127,19,ZW,Standard,48908,Young Adult
+10128,30,BW,Basic,18874,Young Adult
+10129,50,ZW,Basic,33242,Adult
+10130,22,BW,Standard,57899,Young Adult
+10131,53,BW,Premium,25652,Mature
+10132,28,NA,Basic,51654,Young Adult
+10133,25,BW,Premium,94014,Young Adult
+10134,58,NA,Premium,42662,Mature
+10135,66,ZA,Basic,37900,Mature
+10136,51,ZW,Basic,91946,Mature
+10137,49,NA,Standard,4884,Adult
+10138,46,NA,Premium,44225,Adult
+10139,45,NA,Basic,33280,Adult
+10140,59,BW,Premium,49293,Mature
+10141,19,BW,Premium,14033,Young Adult
+10142,19,ZW,Standard,99060,Young Adult
+10143,36,NA,Standard,19308,Adult
+10144,61,ZA,Basic,88269,Mature
+10145,51,ZA,Basic,53898,Mature
+10146,68,ZW,Premium,37154,Mature
+10147,60,ZA,Basic,44938,Mature
+10148,54,NA,Premium,11675,Mature
+10149,55,NA,Standard,24843,Mature
+10150,40,BW,Standard,73568,Adult
+10151,27,BW,Premium,75524,Young Adult
+10152,67,ZA,Standard,25146,Mature
+10153,45,NA,Premium,49474,Adult
+10154,44,NA,Basic,3868,Adult
+10155,23,BW,Basic,11607,Young Adult
+10156,30,ZA,Standard,9370,Young Adult
+10157,64,NA,Standard,70144,Mature
+10158,69,BW,Standard,57905,Mature
+10159,59,ZW,Premium,1190,Mature
+10160,70,NA,Basic,99940,Mature
+10161,46,ZA,Basic,43848,Adult
+10162,64,ZA,Premium,89855,Mature
+10163,58,BW,Standard,42639,Mature
+10164,49,ZW,Basic,57044,Adult
+10165,28,NA,Basic,69141,Young Adult
+10166,66,BW,Basic,98430,Mature
+10167,45,BW,Standard,55008,Adult
+10168,35,ZA,Premium,17621,Adult
+10169,68,ZA,Basic,47514,Mature
+10170,47,NA,Basic,91615,Adult
+10171,70,NA,Basic,49192,Mature
+10172,54,ZW,Standard,94781,Mature
+10173,67,ZA,Standard,98296,Mature
+10174,69,NA,Premium,96156,Mature
+10175,68,NA,Premium,60858,Mature
+10176,65,ZW,Standard,42635,Mature
+10177,29,NA,Basic,43782,Young Adult
+10178,53,ZW,Basic,92016,Mature
+10179,69,NA,Standard,62899,Mature
+10180,32,ZW,Basic,93705,Adult
+10181,54,ZW,Premium,7528,Mature
+10182,59,NA,Standard,96414,Mature
+10183,58,ZW,Basic,58559,Mature
+10184,43,BW,Standard,86787,Adult
+10185,55,BW,Standard,56439,Mature
+10186,52,NA,Premium,18779,Mature
+10187,45,BW,Basic,69479,Adult
+10188,19,ZW,Basic,18331,Young Adult
+10189,25,NA,Basic,82608,Young Adult
+10190,49,ZW,Basic,38477,Adult
+10191,35,NA,Premium,76279,Adult
+10192,59,BW,Basic,48184,Mature
+10193,58,BW,Premium,98194,Mature
+10194,57,BW,Basic,45638,Mature
+10195,41,NA,Standard,14369,Adult
+10196,55,NA,Standard,48728,Mature
+10197,36,NA,Basic,18469,Adult
+10198,25,ZW,Premium,1309,Young Adult
+10199,22,ZA,Basic,45747,Young Adult
+10200,23,ZW,Basic,13608,Young Adult
+10201,28,BW,Basic,21834,Young Adult
+10202,26,NA,Premium,98127,Young Adult
+10203,67,NA,Premium,62342,Mature
+10204,20,ZW,Basic,14824,Young Adult
+10205,39,BW,Standard,86628,Adult
+10206,51,ZW,Basic,39349,Mature
+10207,19,ZW,Premium,51274,Young Adult
+10208,70,ZW,Basic,55300,Mature
+10209,68,ZW,Premium,41483,Mature
+10210,65,ZA,Basic,79196,Mature
+10211,28,BW,Premium,4423,Young Adult
+10212,52,BW,Standard,42959,Mature
+10213,69,NA,Basic,86956,Mature
+10214,44,ZW,Premium,93089,Adult
+10215,56,NA,Standard,4908,Mature
+10216,55,NA,Standard,20602,Mature
+10217,25,ZA,Standard,28236,Young Adult
+10218,39,ZA,Standard,37190,Adult
+10219,35,ZW,Premium,3361,Adult
+10220,20,ZW,Basic,83657,Young Adult
+10221,29,NA,Basic,26722,Young Adult
+10222,25,NA,Standard,15033,Young Adult
+10223,25,ZA,Premium,88667,Young Adult
+10224,38,ZW,Standard,53905,Adult
+10225,39,ZW,Premium,44310,Adult
+10226,44,BW,Standard,76247,Adult
+10227,43,NA,Standard,71131,Adult
+10228,25,NA,Standard,51330,Young Adult
+10229,36,ZW,Standard,70265,Adult
+10230,53,ZW,Standard,71123,Mature
+10231,32,BW,Basic,2804,Adult
+10232,29,ZA,Premium,39062,Young Adult
+10233,61,BW,Standard,78421,Mature
+10234,18,ZW,Premium,93708,Young Adult
+10235,53,NA,Premium,92069,Mature
+10236,56,ZA,Standard,10960,Mature
+10237,45,BW,Basic,74488,Adult
+10238,47,NA,Premium,65674,Adult
+10239,45,ZA,Standard,73117,Adult
+10240,57,ZA,Basic,84146,Mature
+10241,38,ZW,Premium,84161,Adult
+10242,67,BW,Premium,7530,Mature
+10243,26,BW,Basic,79105,Young Adult
+10244,63,NA,Premium,86602,Mature
+10245,54,ZA,Premium,45095,Mature
+10246,22,ZA,Basic,37772,Young Adult
+10247,28,NA,Standard,65148,Young Adult
+10248,49,NA,Basic,23985,Adult
+10249,45,ZA,Standard,58055,Adult
+10250,50,ZA,Basic,63214,Adult
+10251,48,NA,Standard,24077,Adult
+10252,67,BW,Premium,54030,Mature
+10253,30,ZA,Basic,67592,Young Adult
+10254,18,ZA,Premium,5977,Young Adult
+10255,30,ZW,Basic,87397,Young Adult
+10256,55,ZA,Premium,38447,Mature
+10257,64,NA,Premium,94664,Mature
+10258,53,BW,Premium,39887,Mature
+10259,32,BW,Standard,56692,Adult
+10260,28,ZW,Premium,17198,Young Adult
+10261,64,NA,Premium,91670,Mature
+10262,37,NA,Basic,5095,Adult
+10263,28,ZA,Standard,43554,Young Adult
+10264,34,NA,Standard,45774,Adult
+10265,57,BW,Basic,2741,Mature
+10266,70,NA,Standard,65022,Mature
+10267,37,NA,Standard,12604,Adult
+10268,26,ZA,Basic,96068,Young Adult
+10269,42,ZW,Standard,26984,Adult
+10270,22,ZA,Basic,29789,Young Adult
+10271,61,BW,Basic,48885,Mature
+10272,70,ZW,Standard,40218,Mature
+10273,63,NA,Basic,53487,Mature
+10274,60,BW,Premium,83839,Mature
+10275,46,ZW,Standard,96625,Adult
+10276,66,ZW,Premium,3627,Mature
+10277,58,ZA,Standard,50193,Mature
+10278,40,ZW,Basic,12306,Adult
+10279,52,NA,Premium,52378,Mature
+10280,66,ZW,Standard,20038,Mature
+10281,29,BW,Basic,50177,Young Adult
+10282,40,NA,Standard,19021,Adult
+10283,42,NA,Basic,35861,Adult
+10284,41,NA,Basic,1124,Adult
+10285,21,ZW,Standard,48728,Young Adult
+10286,33,ZA,Standard,39501,Adult
+10287,62,ZA,Basic,70500,Mature
+10288,49,NA,Basic,6525,Adult
+10289,41,BW,Basic,66283,Adult
+10290,32,ZA,Standard,81241,Adult
+10291,69,BW,Standard,89355,Mature
+10292,35,BW,Premium,34677,Adult
+10293,62,ZA,Standard,77061,Mature
+10294,48,ZW,Premium,42330,Adult
+10295,52,ZA,Basic,12837,Mature
+10296,57,NA,Basic,98544,Mature
+10297,64,BW,Standard,83181,Mature
+10298,45,ZW,Premium,97398,Adult
+10299,25,NA,Premium,26419,Young Adult
+10300,53,BW,Standard,10705,Mature
+10301,20,NA,Premium,86828,Young Adult
+10302,69,ZW,Premium,49597,Mature
+10303,24,ZA,Premium,89819,Young Adult
+10304,49,NA,Standard,73043,Adult
+10305,44,ZA,Basic,29599,Adult
+10306,28,BW,Standard,17505,Young Adult
+10307,51,NA,Standard,64289,Mature
+10308,32,ZA,Basic,70831,Adult
+10309,41,BW,Standard,29667,Adult
+10310,34,ZW,Basic,20527,Adult
+10311,53,NA,Basic,76663,Mature
+10312,51,NA,Premium,35806,Mature
+10313,42,ZW,Premium,70372,Adult
+10314,21,ZW,Basic,38575,Young Adult
+10315,37,NA,Standard,41562,Adult
+10316,20,BW,Basic,20024,Young Adult
+10317,40,ZA,Premium,32967,Adult
+10318,58,ZA,Standard,68040,Mature
+10319,33,NA,Basic,51168,Adult
+10320,65,ZA,Standard,75645,Mature
+10321,38,BW,Standard,61669,Adult
+10322,47,ZA,Standard,43050,Adult
+10323,30,BW,Premium,13318,Young Adult
+10324,27,ZW,Standard,78158,Young Adult
+10325,64,ZW,Standard,16888,Mature
+10326,42,ZA,Basic,66213,Adult
+10327,23,NA,Premium,22920,Young Adult
+10328,59,NA,Premium,55840,Mature
+10329,57,BW,Standard,39131,Mature
+10330,55,ZA,Basic,87915,Mature
+10331,19,ZW,Basic,61494,Young Adult
+10332,33,ZW,Premium,26933,Adult
+10333,62,BW,Basic,11652,Mature
+10334,30,NA,Premium,68061,Young Adult
+10335,18,ZA,Basic,9570,Young Adult
+10336,19,BW,Basic,2045,Young Adult
+10337,47,NA,Basic,3596,Adult
+10338,67,NA,Standard,65739,Mature
+10339,31,ZA,Basic,6168,Adult
+10340,63,ZW,Premium,54106,Mature
+10341,57,BW,Basic,11515,Mature
+10342,52,ZW,Standard,14674,Mature
+10343,54,BW,Standard,91174,Mature
+10344,52,BW,Premium,84645,Mature
+10345,27,ZW,Basic,18318,Young Adult
+10346,40,ZA,Basic,26223,Adult
+10347,27,ZW,Premium,23577,Young Adult
+10348,33,ZA,Standard,55741,Adult
+10349,18,NA,Basic,78608,Young Adult
+10350,22,ZW,Premium,18317,Young Adult
+10351,51,NA,Standard,16438,Mature
+10352,45,ZA,Premium,82109,Adult
+10353,61,BW,Basic,65519,Mature
+10354,69,BW,Premium,75073,Mature
+10355,29,NA,Standard,78516,Young Adult
+10356,25,BW,Basic,1133,Young Adult
+10357,58,ZA,Basic,85283,Mature
+10358,34,BW,Premium,44684,Adult
+10359,67,ZW,Basic,90825,Mature
+10360,35,ZW,Standard,40110,Adult
+10361,19,ZA,Standard,2061,Young Adult
+10362,70,NA,Standard,59625,Mature
+10363,24,NA,Premium,70978,Young Adult
+10364,32,NA,Standard,26166,Adult
+10365,52,ZA,Basic,76675,Mature
+10366,46,ZA,Premium,50173,Adult
+10367,47,ZW,Basic,17704,Adult
+10368,51,ZA,Premium,40463,Mature
+10369,46,BW,Standard,58045,Adult
+10370,38,NA,Premium,18088,Adult
+10371,41,ZA,Premium,20885,Adult
+10372,47,ZA,Premium,69075,Adult
+10373,37,NA,Basic,8446,Adult
+10374,50,BW,Basic,13760,Adult
+10375,39,ZW,Standard,52345,Adult
+10376,37,ZW,Standard,79746,Adult
+10377,52,BW,Standard,6517,Mature
+10378,52,ZW,Premium,65635,Mature
+10379,61,NA,Standard,92427,Mature
+10380,41,NA,Standard,91240,Adult
+10381,21,ZA,Basic,42905,Young Adult
+10382,28,NA,Premium,47840,Young Adult
+10383,52,BW,Standard,71402,Mature
+10384,63,BW,Premium,83837,Mature
+10385,52,ZA,Standard,41293,Mature
+10386,27,BW,Standard,21933,Young Adult
+10387,69,ZW,Basic,64411,Mature
+10388,44,BW,Premium,1573,Adult
+10389,36,ZA,Standard,47251,Adult
+10390,57,BW,Premium,53626,Mature
+10391,33,ZA,Standard,97343,Adult
+10392,55,ZW,Premium,55881,Mature
+10393,26,ZA,Standard,48293,Young Adult
+10394,41,ZA,Basic,95601,Adult
+10395,53,ZW,Premium,3952,Mature
+10396,51,BW,Premium,9667,Mature
+10397,29,ZW,Basic,56410,Young Adult
+10398,28,NA,Premium,5226,Young Adult
+10399,29,ZW,Standard,46115,Young Adult
+10400,31,ZA,Standard,57929,Adult
+10401,58,ZW,Premium,3716,Mature
+10402,25,BW,Basic,28998,Young Adult
+10403,23,BW,Basic,56610,Young Adult
+10404,57,BW,Premium,2144,Mature
+10405,52,ZW,Standard,8793,Mature
+10406,59,BW,Premium,78234,Mature
+10407,20,ZA,Standard,5902,Young Adult
+10408,50,NA,Premium,32669,Adult
+10409,28,ZW,Basic,88069,Young Adult
+10410,24,NA,Basic,69084,Young Adult
+10411,24,BW,Basic,17292,Young Adult
+10412,48,ZA,Standard,54501,Adult
+10413,56,NA,Premium,6374,Mature
+10414,41,BW,Basic,51503,Adult
+10415,62,ZW,Basic,90440,Mature
+10416,19,ZW,Standard,16758,Young Adult
+10417,18,ZW,Premium,49810,Young Adult
+10418,26,ZW,Premium,94358,Young Adult
+10419,61,BW,Basic,54185,Mature
+10420,37,ZW,Standard,23437,Adult
+10421,48,ZA,Standard,91432,Adult
+10422,33,ZA,Basic,22411,Adult
+10423,56,BW,Premium,16533,Mature
+10424,42,ZA,Premium,28840,Adult
+10425,58,ZW,Standard,79193,Mature
+10426,63,BW,Basic,46263,Mature
+10427,40,BW,Premium,22444,Adult
+10428,20,ZA,Basic,30998,Young Adult
+10429,28,ZW,Premium,26119,Young Adult
+10430,52,ZW,Standard,13876,Mature
+10431,68,ZA,Basic,71006,Mature
+10432,24,ZW,Basic,52448,Young Adult
+10433,49,ZA,Premium,17771,Adult
+10434,34,NA,Basic,52004,Adult
+10435,19,NA,Basic,55344,Young Adult
+10436,42,BW,Premium,56522,Adult
+10437,44,ZW,Basic,51008,Adult
+10438,21,ZW,Basic,31913,Young Adult
+10439,60,BW,Standard,58420,Mature
+10440,34,NA,Standard,29802,Adult
+10441,26,NA,Standard,40892,Young Adult
+10442,53,NA,Standard,70725,Mature
+10443,47,ZA,Basic,27948,Adult
+10444,31,ZW,Standard,69275,Adult
+10445,29,BW,Premium,12223,Young Adult
+10446,46,ZW,Standard,76446,Adult
+10447,63,ZW,Standard,71503,Mature
+10448,69,ZA,Basic,12433,Mature
+10449,62,ZW,Basic,75487,Mature
+10450,28,ZW,Basic,99617,Young Adult
+10451,38,ZA,Standard,28262,Adult
+10452,62,ZW,Premium,92622,Mature
+10453,59,ZW,Standard,35886,Mature
+10454,56,ZW,Premium,73749,Mature
+10455,46,NA,Standard,67354,Adult
+10456,49,ZW,Premium,11669,Adult
+10457,60,ZA,Premium,59851,Mature
+10458,54,NA,Standard,67793,Mature
+10459,33,NA,Standard,78329,Adult
+10460,32,BW,Basic,12982,Adult
+10461,61,BW,Premium,15137,Mature
+10462,22,BW,Premium,51795,Young Adult
+10463,37,NA,Premium,35963,Adult
+10464,44,BW,Standard,78664,Adult
+10465,59,NA,Premium,30778,Mature
+10466,48,BW,Premium,47633,Adult
+10467,21,ZW,Standard,90951,Young Adult
+10468,44,ZA,Standard,36331,Adult
+10469,65,BW,Basic,34371,Mature
+10470,57,NA,Basic,71269,Mature
+10471,24,BW,Premium,11718,Young Adult
+10472,56,NA,Standard,94378,Mature
+10473,29,NA,Standard,57120,Young Adult
+10474,66,ZW,Standard,59425,Mature
+10475,25,BW,Basic,53033,Young Adult
+10476,31,ZA,Premium,12194,Adult
+10477,20,ZA,Standard,4036,Young Adult
+10478,55,ZA,Standard,84874,Mature
+10479,21,ZA,Standard,19923,Young Adult
+10480,46,ZW,Premium,35285,Adult
+10481,70,ZW,Standard,82443,Mature
+10482,57,NA,Standard,55706,Mature
+10483,38,ZA,Premium,18505,Adult
+10484,33,ZW,Standard,35225,Adult
+10485,57,BW,Premium,29939,Mature
+10486,31,NA,Basic,71723,Adult
+10487,52,ZA,Premium,88239,Mature
+10488,45,ZA,Premium,71218,Adult
+10489,66,NA,Basic,26309,Mature
+10490,52,BW,Basic,55857,Mature
+10491,53,ZA,Premium,23960,Mature
+10492,34,ZA,Basic,51054,Adult
+10493,64,ZA,Standard,82220,Mature
+10494,60,NA,Premium,55695,Mature
+10495,24,ZW,Standard,88975,Young Adult
+10496,58,BW,Standard,16408,Mature
+10497,63,ZW,Basic,93255,Mature
+10498,60,ZA,Premium,81460,Mature
+10499,29,ZA,Premium,40971,Young Adult
+10500,61,NA,Standard,7049,Mature

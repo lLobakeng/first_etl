@@ -1,5 +1,4 @@
 import csv
-
 def load(customers):
     fieldnames = ['customer_id',
                   'age',
