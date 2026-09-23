@@ -24,6 +24,14 @@ def standardize_countries(customers):
         
     return customers
 
+def validate_customers(customers):
+    valid_customers= []
+    for customer in customers:
+        if customer['age'] >= 18 and customer['age'] <= 70:
+            valid_customers.append(customer)
+    
+    return valid_customers 
+
 
 
 def transform(customers):
@@ -42,7 +50,10 @@ def transform(customers):
     
     transformed_customers = categorize_age(transformed_customers)
     transformed_customers = standardize_countries(transformed_customers) 
+    transformed_customers = validate_customers(transformed_customers)
+    
     return transformed_customers
+       
 
 
 
