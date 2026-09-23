@@ -27,7 +27,7 @@ def standardize_countries(customers):
 def validate_customers(customers):
     valid_customers= []
     for customer in customers:
-        if customer['age'] >= 18 and customer['age'] <= 70:
+        if customer['age'] >= 18 and customer['age'] <= 70 and customer['balance'] >= 0 and customer['account_type'] in ['Basic', 'Standard', 'Premium']:
             valid_customers.append(customer)
     
     return valid_customers 
