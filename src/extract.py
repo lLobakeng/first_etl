@@ -1,11 +1,17 @@
 import csv
+from pathlib import Path
+
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+RAW_DATA = PROJECT_ROOT / 'data' / 'raw' / 'customers.csv'
+
 def extract():
     # 1. the first thing would be to create a variable that we will eventually store our data in
     customers = []
     
     # 2. then use open() to access the actual raw file in the specified file path, 'r' means in read mode
     # the file variable represents an opened file, that automatically closes when done
-    with open('data/raw/customers.csv', 'r') as file:
+    with open(RAW_DATA, 'r') as file:
         
         # the actual extraction happens here, we first create a 'reader'
         reader = csv.DictReader(file)

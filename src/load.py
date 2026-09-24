@@ -1,4 +1,10 @@
 import csv
+from pathlib import Path
+
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROCESSED_DATA = PROJECT_ROOT / 'data' / 'processed' / 'customers.csv'
+
 def load(customers):
     fieldnames = ['customer_id',
                   'age',
@@ -9,7 +15,7 @@ def load(customers):
                   ]
     # we take the final data and create a new file in the path specified
     # we are also essentially taking the list of dictionaries and converting them to a CSV file
-    with open('data/processed/customers.csv', 'w') as file:
+    with open(PROCESSED_DATA, 'w') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         # this ensure that the CSV has the column headers 
         writer.writeheader()
