@@ -30,5 +30,5 @@ def extract():
         logger.info('Extraction completed')      
         return customers
     except FileNotFoundError:
-        logger.info('Input file is not found. Pipeline cannot continue')
+        logger.error('Input file is not found. Pipeline cannot continue')
         raise
