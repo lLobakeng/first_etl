@@ -1,6 +1,8 @@
+import logging 
 import csv
 from pathlib import Path
 
+logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PROCESSED_DATA = PROJECT_ROOT / 'data' / 'processed' / 'customers.csv'
@@ -21,3 +23,4 @@ def load(customers):
         writer.writeheader()
         # writes the dictionaries underneath the header
         writer.writerows(customers)
+    logger.info('Load completed')

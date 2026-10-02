@@ -1,6 +1,10 @@
 import csv
+import logging
 from pathlib import Path
 
+# we add a logger object, add it just before we return the extracted customers dictionary
+
+logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 RAW_DATA = PROJECT_ROOT / 'data' / 'raw' / 'customers.csv'
@@ -22,8 +26,9 @@ def extract():
                 customers.append(row)
      
             # we then return the entire collection of dictionaries
-            # NOTE that the returned list of dictionaries has all its values as strings        
+            # NOTE that the returned list of dictionaries has all its values as strings  
+        logger.info('Extraction completed')      
         return customers
     except FileNotFoundError:
-        print('Input file not found. Pipeline cannot continue.')
+        logger.info('Input file is not found. Pipeline cannot continue')
         raise

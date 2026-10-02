@@ -1,3 +1,7 @@
+import logging
+
+logger = logging.getLogger(__name__)
+
 def categorize_age(customers):
     for customer in customers:
         if customer['age'] <= 30:
@@ -51,7 +55,7 @@ def transform(customers):
     transformed_customers = categorize_age(transformed_customers)
     transformed_customers = standardize_countries(transformed_customers) 
     transformed_customers = validate_customers(transformed_customers)
-    
+    logger.info('Transformation completed')
     return transformed_customers
        
 
