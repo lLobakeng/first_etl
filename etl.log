@@ -23,3 +23,25 @@ WARNING:__main__:starting ETL pipeline
 2026-10-02 22:59:35,837 INFO src.extract Extraction completed
 2026-10-02 22:59:35,840 INFO src.transform Transformation completed
 2026-10-02 22:59:35,849 INFO src.load Load completed
+2026-10-02 23:09:24,407 INFO __main__ Starting ETL pipeline
+2026-10-02 23:09:24,408 ERROR src.extract Input file is not found. Pipeline cannot continue
+2026-10-02 23:12:41,339 INFO __main__ Starting ETL pipeline
+2026-10-02 23:12:41,342 INFO src.extract Extraction completed
+2026-10-02 23:12:41,344 INFO src.transform Transformation completed
+2026-10-02 23:12:41,347 INFO src.load Load completed
+2026-10-05 00:11:01,884 INFO __main__ Starting ETL pipeline
+2026-10-05 00:11:01,884 ERROR src.extract Input file is not found. Pipeline cannot continue
+2026-10-05 00:12:22,895 INFO __main__ Starting ETL pipeline
+2026-10-05 00:12:22,898 INFO src.extract Extraction completed
+2026-10-05 00:12:22,900 INFO src.transform Transformation completed
+2026-10-05 00:12:22,903 INFO src.load Load completed
+2026-10-05 00:33:16,435 INFO __main__ Starting ETL pipeline
+2026-10-05 00:33:16,439 INFO src.extract Extraction completed
+2026-10-05 00:33:40,362 INFO __main__ Starting ETL pipeline
+2026-10-05 00:33:40,366 INFO src.extract Extraction completed
+2026-10-05 00:35:18,939 INFO __main__ Starting ETL pipeline
+2026-10-05 00:35:18,943 INFO src.extract Extraction completed
+2026-10-05 00:36:57,186 INFO __main__ Starting ETL pipeline
+2026-10-05 00:36:57,189 INFO src.extract Extraction completed
+2026-10-05 00:36:57,190 INFO src.transform Transformation completed
+2026-10-05 00:36:57,194 INFO src.load Load completed

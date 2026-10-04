@@ -1,11 +1,12 @@
 import logging 
 import csv
 from pathlib import Path
+from config.config import PROCESSED_FILENAME
 
 logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-PROCESSED_DATA = PROJECT_ROOT / 'data' / 'processed' / 'customers.csv'
+PROCESSED_DATA = PROJECT_ROOT / 'data' / 'processed' / PROCESSED_FILENAME
 
 def load(customers):
     fieldnames = ['customer_id',

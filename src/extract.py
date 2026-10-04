@@ -1,13 +1,14 @@
 import csv
 import logging
 from pathlib import Path
+from config.config import RAW_FILENAME
 
 # we add a logger object, add it just before we return the extracted customers dictionary
 
 logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-RAW_DATA = PROJECT_ROOT / 'data' / 'raw' / 'customers.csv'
+RAW_DATA = PROJECT_ROOT / 'data' / 'raw' / RAW_FILENAME
 
 def extract():
     # 1. the first thing would be to create a variable that we will eventually store our data in

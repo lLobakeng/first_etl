@@ -1,13 +1,20 @@
 import logging
+from config.config import (
+    YOUNG_ADULT_MAX_AGE,
+    ADULT_MAX_AGE,
+    MIN_AGE,
+    MAX_AGE,
+    MIN_BALANCE,
+    ACCOUNT_TYPES)
 
 logger = logging.getLogger(__name__)
 
 def categorize_age(customers):
     for customer in customers:
-        if customer['age'] <= 30:
+        if customer['age'] <= YOUNG_ADULT_MAX_AGE:
             customer['age_group'] = 'Young Adult'
             
-        elif customer['age'] <= 50:
+        elif customer['age'] <= ADULT_MAX_AGE:
             customer['age_group'] = 'Adult'
         
         else:
@@ -31,7 +38,7 @@ def standardize_countries(customers):
 def validate_customers(customers):
     valid_customers= []
     for customer in customers:
-        if customer['age'] >= 18 and customer['age'] <= 70 and customer['balance'] >= 0 and customer['account_type'] in ['Basic', 'Standard', 'Premium']:
+        if customer['age'] >= MIN_AGE and customer['age'] <= MAX_AGE and customer['balance'] >= MIN_BALANCE and customer['account_type'] in ACCOUNT_TYPES:
             valid_customers.append(customer)
     
     return valid_customers 
